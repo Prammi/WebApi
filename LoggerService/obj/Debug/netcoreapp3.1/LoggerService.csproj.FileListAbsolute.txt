@@ -1,0 +1,14 @@
+C:\Users\praikal\source\repos\WebApi\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.deps.json
+C:\Users\praikal\source\repos\WebApi\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.dll
+C:\Users\praikal\source\repos\WebApi\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.pdb
+C:\Users\praikal\source\repos\WebApi\LoggerService\bin\Debug\netcoreapp3.1\Contracts.dll
+C:\Users\praikal\source\repos\WebApi\LoggerService\bin\Debug\netcoreapp3.1\Contracts.pdb
+C:\Users\praikal\source\repos\WebApi\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.AssemblyInfoInputs.cache
+C:\Users\praikal\source\repos\WebApi\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.AssemblyInfo.cs
+C:\Users\praikal\source\repos\WebApi\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csproj.CoreCompileInputs.cache
+C:\Users\praikal\source\repos\WebApi\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csproj.CopyComplete
+C:\Users\praikal\source\repos\WebApi\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.dll
+C:\Users\praikal\source\repos\WebApi\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.pdb
+C:\Users\praikal\source\repos\WebApi\LoggerService\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\praikal\source\repos\WebApi\LoggerService\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\praikal\source\repos\WebApi\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csproj.AssemblyReference.cache

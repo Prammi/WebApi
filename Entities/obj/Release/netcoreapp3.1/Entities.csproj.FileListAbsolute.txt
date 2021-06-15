@@ -1,0 +1,9 @@
+C:\Users\praikal\source\repos\WebApi\Entities\bin\Release\netcoreapp3.1\Entities.deps.json
+C:\Users\praikal\source\repos\WebApi\Entities\bin\Release\netcoreapp3.1\Entities.dll
+C:\Users\praikal\source\repos\WebApi\Entities\bin\Release\netcoreapp3.1\Entities.pdb
+C:\Users\praikal\source\repos\WebApi\Entities\obj\Release\netcoreapp3.1\Entities.csproj.AssemblyReference.cache
+C:\Users\praikal\source\repos\WebApi\Entities\obj\Release\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+C:\Users\praikal\source\repos\WebApi\Entities\obj\Release\netcoreapp3.1\Entities.AssemblyInfo.cs
+C:\Users\praikal\source\repos\WebApi\Entities\obj\Release\netcoreapp3.1\Entities.csproj.CoreCompileInputs.cache
+C:\Users\praikal\source\repos\WebApi\Entities\obj\Release\netcoreapp3.1\Entities.dll
+C:\Users\praikal\source\repos\WebApi\Entities\obj\Release\netcoreapp3.1\Entities.pdb

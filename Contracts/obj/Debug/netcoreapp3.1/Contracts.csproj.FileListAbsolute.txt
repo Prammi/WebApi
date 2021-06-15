@@ -1,0 +1,12 @@
+C:\Users\praikal\source\repos\WebApi\Contracts\bin\Debug\netcoreapp3.1\Contracts.deps.json
+C:\Users\praikal\source\repos\WebApi\Contracts\bin\Debug\netcoreapp3.1\Contracts.dll
+C:\Users\praikal\source\repos\WebApi\Contracts\bin\Debug\netcoreapp3.1\Contracts.pdb
+C:\Users\praikal\source\repos\WebApi\Contracts\obj\Debug\netcoreapp3.1\Contracts.AssemblyInfoInputs.cache
+C:\Users\praikal\source\repos\WebApi\Contracts\obj\Debug\netcoreapp3.1\Contracts.AssemblyInfo.cs
+C:\Users\praikal\source\repos\WebApi\Contracts\obj\Debug\netcoreapp3.1\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\praikal\source\repos\WebApi\Contracts\obj\Debug\netcoreapp3.1\Contracts.dll
+C:\Users\praikal\source\repos\WebApi\Contracts\obj\Debug\netcoreapp3.1\Contracts.pdb
+C:\Users\praikal\source\repos\WebApi\Contracts\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\praikal\source\repos\WebApi\Contracts\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\praikal\source\repos\WebApi\Contracts\obj\Debug\netcoreapp3.1\Contracts.csproj.CopyComplete
+C:\Users\praikal\source\repos\WebApi\Contracts\obj\Debug\netcoreapp3.1\Contracts.csproj.AssemblyReference.cache
